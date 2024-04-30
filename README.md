@@ -1,3 +1,3 @@
 # hello-world
 a very innovative project that no one ever thought before...
-I'm going to build my own hello-world project with blackjack and hookers.
+I'm going to build my own hello-world project with blackjack with friends. No hookers anymore, I'm a married man now 
